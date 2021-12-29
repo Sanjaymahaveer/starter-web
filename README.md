@@ -5,4 +5,8 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 ##Galvan
 ##How to contribute
+
+#Gajak
+
+#Phelukwayo
 Sample website with plenty of files for demos
